@@ -3,3 +3,5 @@
 This repository stores data and code for 
 
 F Yang, Y Choi, H Lee. Potential Costs and Gains from Command-and-control and Cap-and-trade Emission Regulation in Korea.
+
+Please consider cite the article may you find it useful.
